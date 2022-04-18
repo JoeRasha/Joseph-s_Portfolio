@@ -1,0 +1,100 @@
+* {
+    background-color: lightgray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    background-color: #202e2a;
+}
+
+header h1 {
+    display: inline-block;
+    color: #202e2a;
+    margin:auto;
+    font-size: 40px;
+    background-color: lightskyblue;
+}
+
+header nav {
+    float: right;
+    margin: 0px auto;
+    padding: 5px 20px 5px 20px;
+    font-size: larger;
+    background-color: #202e2a;
+    box-sizing: border-box;
+}
+
+#about-me-nav {
+    background-color: #202e2a;
+    color:lightskyblue;
+    
+}
+
+#work-nav {
+    color: lightskyblue;
+    background-color: #202e2a;
+}
+
+#contact-nav {
+    color: lightskyblue;
+    background-color: #202e2a;
+}
+
+
+body {
+    background-color: #202e2a
+    ;
+}
+
+.hero div{
+font-size: 30px;
+padding: 40px;
+background-color: #202e2a;
+text-align: end;
+}
+
+main h3 {
+    text-align: justify;
+    font-size: 30px;
+}
+
+.maincontent {
+    color: grey;
+    text-align: left;
+    padding-left: 200px;
+}
+
+#rbimg {
+    width: 900px;
+    height: auto;
+}
+
+#favthingsimg {
+    width: 450px;
+    height: 250px;
+}
+
+#test {
+    display: flex;
+}
+
+
+#contactinfo {
+    display: flex;
+}
+
+#phone-number {
+    padding: 0 50px 0px 50px;
+}
+
+#email-addy {
+    padding: 0 50px 0 50px;
+}
+
+#github-url {
+    padding: 0 50px 0 50px;
+}
+
+#linked-in {
+    padding: 0 50px 0 50px;
+}
